@@ -20,7 +20,8 @@ Link: https://www.machinehack.com/hackathons/5ef5dcfff86bc10bcd96d915
 APPROACH
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-The Response variable is SalesInMillions and Evaluation Metric used in RMSE. <br>
+Response variable: SalesInMillions <br>
+Evaluation Metric:RMSE <br>
 R language is used for programming. <br>
 The R script provides the entire analysis and machine learning models (GBM/XGBoost/Light GBM/CatBoost). <br>
 The Jupter Notebook provides the details of the analysis and the final model written in R. <br>
