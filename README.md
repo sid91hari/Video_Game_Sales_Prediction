@@ -14,12 +14,14 @@ This competition was organized by Machine Hack.
 
 Link: https://www.machinehack.com/hackathons/5ef5dcfff86bc10bcd96d915
 
+Top 12% Finish (Out of 404 participants)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 APPROACH:
 
 The Response variable is SalesInMillions and Evaluation Metric used in RMSE.
-R language is used for this operation. 
+R language is used for programming.
 The R script provides the entire analysis and machine learning models (GBM/XGBoost/Light GBM/CatBoost).
 The Jupter Notebook provides the details of the analysis and the final model written in R.
 
