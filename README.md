@@ -17,8 +17,8 @@ Link: https://www.machinehack.com/hackathons/5ef5dcfff86bc10bcd96d915
 Top 12% Finish (Out of 404 participants)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
-APPROACH:
+APPROACH
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Response variable is SalesInMillions and Evaluation Metric used in RMSE. <br>
 R language is used for programming. <br>
