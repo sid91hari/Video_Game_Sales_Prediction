@@ -20,12 +20,12 @@ Top 12% Finish (Out of 404 participants)
 
 APPROACH:
 
-The Response variable is SalesInMillions and Evaluation Metric used in RMSE.
-R language is used for programming.
-The R script provides the entire analysis and machine learning models (GBM/XGBoost/Light GBM/CatBoost).
-The Jupter Notebook provides the details of the analysis and the final model written in R.
+The Response variable is SalesInMillions and Evaluation Metric used in RMSE. <br>
+R language is used for programming. <br>
+The R script provides the entire analysis and machine learning models (GBM/XGBoost/Light GBM/CatBoost). <br>
+The Jupter Notebook provides the details of the analysis and the final model written in R. <br>
 
-R script: video_game.R
+R script: video_game.R <br>
 Jupter notebook (R): Video_game.ipynb
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
