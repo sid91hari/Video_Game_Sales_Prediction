@@ -10,7 +10,7 @@ Analyzing Video game sales data is essential for understanding the trend of sale
 Apart from that, it provides details on various factors necessary to improve sales. 
 Here, the objective is to analyze and build a machine learning model that accurately predicts the sales in millions for a Video game.
 
-This competition was organized by Machine Hack.
+This competition was organized by Analytics India Magazine through Machine Hack.
 
 Link: https://www.machinehack.com/hackathons/5ef5dcfff86bc10bcd96d915
 
