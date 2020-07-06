@@ -46,7 +46,7 @@ II. Feature Engineering and Data Preprocessing
 1. New features
 2. Preprocessing and transforming quantitative variables
 3. Encoding of categorical variables
-4. Outlier managment
+4. Outlier management
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 III. Modeling
