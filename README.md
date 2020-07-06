@@ -21,7 +21,7 @@ APPROACH
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Response variable: SalesInMillions <br>
-Evaluation Metric:RMSE <br>
+Evaluation Metric: RMSE <br>
 R language is used for programming. <br>
 The R script provides the entire analysis and machine learning models (GBM/XGBoost/Light GBM/CatBoost). <br>
 The Jupter Notebook provides the details of the analysis and the final model written in R. <br>
