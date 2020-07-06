@@ -14,7 +14,7 @@ This competition was organized by Analytics India Magazine through Machine Hack.
 
 Link: https://www.machinehack.com/hackathons/5ef5dcfff86bc10bcd96d915
 
-#### Top 12% Finish (Out of 404 participants)
+#### Top 12% Finish (Out of 411 participants)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 APPROACH
